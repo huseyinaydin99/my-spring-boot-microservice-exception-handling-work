@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-spring-boot-microservice-exception-handling-work.iml" filepath="$PROJECT_DIR$/.idea/my-spring-boot-microservice-exception-handling-work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiggy-gateway/swiggy-gateway.iml" filepath="$PROJECT_DIR$/swiggy-gateway/swiggy-gateway.iml" />
+    </modules>
+  </component>
+</project>
